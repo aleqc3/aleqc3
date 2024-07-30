@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-  - [Active directory Home Lab](https://github.com/aleqc3/LABURL)
+  - [Active directory Home Lab](https://github.com/aleqc3//ActiveDirectoryLab/tree/main)
   - [How to partition ](https://github.com/aleqc3/LABURL)
 <h2>📝 Certifications </h2>
 
